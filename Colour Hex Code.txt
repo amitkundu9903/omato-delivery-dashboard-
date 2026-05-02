@@ -1,0 +1,11 @@
+Red Colour : #E4716B
+
+
+Yellow Colour : #FEF67C
+
+
+Dark Blue : #1E5C7E
+
+
+Dark Black : #2A2F34
+
